@@ -10,7 +10,8 @@
 <div align="center">
    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Mono&size=22&color=5A31DD&center=true&vCenter=true&width=440&height=45&lines=Full-Stack+Web+Developer;UX%2FUI+Freelancer;Front-End+Animation+Enthusiast;Snazzy+Website+Enjoyer" alt="Typing SVG" /></a>
 </div>
-<div class="tenor-gif-embed" data-postid="25011981" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/scaler-create-impact-coding-programming-cat-gif-25011981">Scaler Create Impact GIF</a>from <a href="https://tenor.com/search/scaler-gifs">Scaler GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+
+<img src="https://tenor.com/embed.js" width="30">
 
 ### Welcome to my profile!
 I'm a 20 year old, self-taught 💻 and certified Full-Stack Web Developer from the Georgia Institute of Technology 🎓. My programming journey began at 17, and have been doing it for three years ever since!
