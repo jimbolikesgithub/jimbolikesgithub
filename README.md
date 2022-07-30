@@ -13,9 +13,10 @@
 
 <img src="https://media.giphy.com/media/JCOY3YxLsEbmtaUkgZ/giphy.gif" width="100">
 
-### Welcome to my profile!
-## I'm a... 
-* 20 years old (started at 17) 3 years aleady?!
+###
+## Welcome to my profile! I'm a... 
+* 20 year old
+* 3 years of coding (3 years already?!)
 * Self-taught and certified Full-Stack Web Developer from the Georgia Institute of Technology 🎓
 
 
