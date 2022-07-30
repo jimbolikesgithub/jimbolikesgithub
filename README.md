@@ -14,7 +14,7 @@
 
 I'm a 20 year old, self-taught 💻 and certified Full-Stack Web Developer from the Georgia Institute of Technology 🎓. My programming journey began at 17, and have been doing it for three years ever since!
 
-<img src="https://giphy.com/embed/eSwGh3YK54JKU/giphy.gif" width="40" height="40">
+<img src="https://giphy.com/embed/eSwGh3YK54JKU/giphy.gif" width="40" height="40"/>
 
 <a href="https://github.com/jimbolikesgithub/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=jimbolikesgithub&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> <a href="https://github.com/jimbolikesgithub/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jimbolikesgithub&layout=compact&theme=buefy&hide_border=true" /></a>
 
