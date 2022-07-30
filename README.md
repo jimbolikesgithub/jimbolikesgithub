@@ -6,7 +6,7 @@
 </div>
 
 <div align="center">
-<h3><img src="https://giphy.com/embed/kQ3FSVoJrkYWk" width="30"> 🙎 Hemant Joshi | 💻 Full Stack Developer | 🛸 India , UK <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
+<h3><img src="https://giphy.com/embed/kQ3FSVoJrkYWk/giphy.gif" width="30"> 🙎 Hemant Joshi | 💻 Full Stack Developer | 🛸 India , UK <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
 </div>
 
 
