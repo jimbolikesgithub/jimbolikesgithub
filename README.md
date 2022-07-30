@@ -13,7 +13,7 @@
 
 <img src="https://media.giphy.com/media/JCOY3YxLsEbmtaUkgZ/giphy.gif" width="100">
 
-<img align="right" height="270px" width="450px" alt="GIF" src="https://media.giphy.com/media/3FjEPbKqEPhPpmC8uY/giphy.gif" />
+<img align="right" height="270px" width="450px" alt="GIF" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" />
 ## Welcome to my profile! I'm a... 
 * 20 year old
 * 3 years of coding (3 years already?!)
