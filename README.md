@@ -5,6 +5,7 @@
    <img src="https://pronoun.cyou/x/y?subject=He&object=Him&height=20"> 
 </div>
 
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=jimbolikesgithub.visitor-badge)
 
 <p align="center">
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Mono&size=22&color=5A31DD&center=true&vCenter=true&width=440&height=45&lines=Full-Stack+Web+Developer;UX%2FUI+Freelancer;Front-End+Animation+Enthusiast;Snazzy+Website+Enjoyer" alt="Typing SVG" /></a>
