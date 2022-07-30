@@ -5,9 +5,7 @@
 
 
 <p align="center">
-8
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=lines=Full-Stack+Web+Developer;UX%2FUI+Freelancer;Front-End+Animation+Enthusiast;Snazzy+Website+Enjoyer&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
-9
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Mono&size=22&color=5A31DD&width=440&height=45&lines=Full-Stack+Web+Developer;UX%2FUI+Freelancer;Front-End+Animation+Enthusiast;Snazzy+Website+Enjoyer" alt="Typing SVG" /></a>
 </p>
 
 ![Jimbo's GitHub stats](https://github-readme-stats.vercel.app/api?username=jimbolikesgithub&show_icons=true&theme=dracula)
