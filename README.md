@@ -13,9 +13,10 @@
 
 <img align="right" height="270px" width="450px" alt="GIF" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" />
 <h2>Welcome to my profile! Here's a little about me:</h2> 
-○ 20 year old </br>
-○ 3 years of coding (3 years already?!) </br>
-○ Self-taught and certified Full-Stack Web Developer from the Georgia Institute of Technology </br>
+○ 💻 Full-Stack Web Developer</br>
+○ 👨‍💻 3 years of coding (3 years already?!) </br>
+○ 🎓 GIT Alumni in Full-Stack Web Development</br>
+○ 💫 Animation enjoyer
 
 <a href="https://github.com/jimbolikesgithub/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=jimbolikesgithub&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> <a href="https://github.com/jimbolikesgithub/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jimbolikesgithub&layout=compact&theme=buefy&hide_border=true" /></a>
 
