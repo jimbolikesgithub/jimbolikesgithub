@@ -41,7 +41,7 @@ MERN | MVC | ORM | OOP | PWA
 <h2>Freelance sites I've worked on:</h2>
 
 
-  <a align="left" href="https://github.com/jimbolikesgithub/all-american-v2" title="Algorithms"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=jimbolikesgithub&repo=all-american-v2&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="left" href="https://github.com/jimbolikesgithub/all-american-v2" title="Algorithms"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=jimbolikesgithub&repo=all-american-v2&theme=buefy"></a>
 
  <a align="left" href="https://github.com/jimbolikesgithub/all-american-v2" title="Algorithms"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=jimbolikesgithub&repo=all-american-v2&theme=buefy"></a>
 
