@@ -16,7 +16,7 @@
 ○ 💻 Full-Stack Web Developer</br>
 ○ 👨‍💻 3 years of coding (3 years already?!) </br>
 ○ 🎓 GIT Alumni in Full-Stack Web Development</br>
-○ 💫 Three.js && Blender enjoyer
+○ 💫 Three.js && Blender enjoyer </br>
 ○ ✨ Making the most aesthetically pleasing sites is one of my goals
 
 <a href="https://github.com/jimbolikesgithub/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=jimbolikesgithub&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> <a href="https://github.com/jimbolikesgithub/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jimbolikesgithub&layout=compact&theme=buefy&hide_border=true" /></a>
