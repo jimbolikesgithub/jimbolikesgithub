@@ -28,7 +28,7 @@
 <img align="right" height="270px" width="450px" alt="GIF" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" />
 <h2>Welcome to my profile! Here's a little about me:</h2> 
 ○ 💻 Freelance, Full-Stack Web Developer </br>
-○ 👨‍💻 3 years of coding (3 years already?!) </br>
+○ 👨‍💻 3 years of coding exp (3 years already?!) </br>
 ○ 🎓 GIT Alumni in Full-Stack Web Development</br>
 ○ 💫 Three.js && Blender enjoyer </br>
 ○ ✨ Making the most aesthetically pleasing sites is one of my goals </br>
