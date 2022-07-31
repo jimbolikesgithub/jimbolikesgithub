@@ -43,7 +43,7 @@ MERN | MVC | ORM | OOP | PWA
 
   <a align="left" href="https://github.com/jimbolikesgithub/all-american-v2" title="Algorithms"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=jimbolikesgithub&repo=all-american-v2&theme=buefy"></a>
 
- <a align="left" href="https://github.com/jimbolikesgithub/all-american-v2" title="Algorithms"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=jimbolikesgithub&repo=all-american-v2&theme=buefy"></a>
+ <a align="left" href="https://github.com/jimbolikesgithub/all-american-v2" title="Algorithms"><img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=jimbolikesgithub&repo=all-american-v2&theme=buefy"></a>
 
 
 
