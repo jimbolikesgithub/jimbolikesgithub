@@ -40,9 +40,10 @@ MERN | MVC | ORM | OOP | PWA
 
 <h2>Freelance sites I've worked on:</h2>
 
-<div width="100%" align="center">
+
   <a align="left" href="https://github.com/jimbolikesgithub/all-american-v2" title="Algorithms"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=jimbolikesgithub&repo=all-american-v2&theme=react&border_color=61dafb&border_radius=10"></a>
-</div>
+
+
 
 
 <img height="400px" width="100%" alt="GIF" src="https://media.giphy.com/media/YrJp9LFIDkwms/giphy.gif" />
