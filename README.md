@@ -4,7 +4,7 @@
 </div>
 
 <div align="center">
-   <h3><img src="https://media.giphy.com/media/tKkJrjL0ghnX2lpIsM/giphy.gif" width="60">| James Edwards | 20 | Full-Stack Developer | Newnan, GA |</h3>
+   <h3>| James Edwards | 20 | Full-Stack Developer | Newnan, GA |</h3>
 </div>
 
 <div align="center">
