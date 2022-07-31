@@ -41,13 +41,7 @@ MERN | MVC | ORM | OOP | PWA
 <a href="https://github.com/jimbolikesgithub/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=jimbolikesgithub&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> <a href="https://github.com/jimbolikesgithub/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jimbolikesgithub&layout=compact&theme=buefy&hide_border=true" /></a> </br>
 
 <h2>Freelance sites I've worked on:</h2>
-<a href="https://github.com/anuraghazra/anuraghazra.github.io">
-   <img align="center" src="https://github.com/jimbolikesgithub/all-american-v2/api/pin/?username=jimbolikesgithub&repo=jimbolikesgithub.github.io&theme=buefy" />
-</a>
 
-<a href="https://github.com/anuraghazra/anuraghazra.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=anuraghazra.github.io&theme=buefy" />
-</a>
 
 
 <img height="400px" width="100%" alt="GIF" src="https://media.giphy.com/media/YrJp9LFIDkwms/giphy.gif" />
