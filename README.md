@@ -40,9 +40,7 @@ MERN | MVC | ORM | OOP | PWA
 
 <h2>Freelance sites I've worked on:</h2>
 
-<div width="100%" align="center">
-  <a align="left" href="https://github.com/zumrudu-anka/Algorithms" title="Algorithms"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=Algorithms&theme=react&border_color=61dafb&border_radius=10"></a><a align="right" href="https://github.com/zumrudu-anka/DataStructures" title="Data Structures"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=DataStructures&theme=react&border_color=61dafb&border_radius=10"></a>
-</div>
+
 
 https://github.com/jimbolikesgithub/all-american-v2
 <img height="400px" width="100%" alt="GIF" src="https://media.giphy.com/media/YrJp9LFIDkwms/giphy.gif" />
