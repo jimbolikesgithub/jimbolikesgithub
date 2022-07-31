@@ -42,6 +42,9 @@ MERN | MVC | ORM | OOP | PWA
 
 <h2>Freelance sites I've worked on:</h2>
 
+<a href="https://github.com/jimbolikesgithub/all-american-v2">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=buefy" />
+</a>
 
-
+https://github.com/jimbolikesgithub/all-american-v2
 <img height="400px" width="100%" alt="GIF" src="https://media.giphy.com/media/YrJp9LFIDkwms/giphy.gif" />
