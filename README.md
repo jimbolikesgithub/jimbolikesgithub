@@ -21,6 +21,6 @@
 
 <a href="https://github.com/jimbolikesgithub/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=jimbolikesgithub&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> <a href="https://github.com/jimbolikesgithub/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jimbolikesgithub&layout=compact&theme=buefy&hide_border=true" /></a>
 
-<div style="width:100%;height:0;padding-bottom:57%;position:relative;"><iframe src="https://giphy.com/embed/YrJp9LFIDkwms" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/kawaii-panda-YrJp9LFIDkwms">via GIPHY</a></p>
+
 
 <img height="270px" width="450px" alt="GIF" src="https://media.giphy.com/media/YrJp9LFIDkwms/giphy.gif" />
