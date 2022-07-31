@@ -13,7 +13,7 @@
 
 <img align="right" height="270px" width="450px" alt="GIF" src="https://media.giphy.com/media/JCOY3YxLsEbmtaUkgZ/giphy.gif" />
 <h2>Welcome to my profile! I'm a...</h2> 
-- 20 year old </br>
+* 20 year old </br>
 - 3 years of coding (3 years already?!) </br>
 - Self-taught and certified Full-Stack Web Developer from the Georgia Institute of Technology </br>
 * Hi
