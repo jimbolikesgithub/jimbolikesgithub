@@ -23,4 +23,4 @@
 
 
 
-<img height="270px" width="450px" alt="GIF" src="https://media.giphy.com/media/YrJp9LFIDkwms/giphy.gif" />
+<img height="270px" width="100%" alt="GIF" src="https://media.giphy.com/media/YrJp9LFIDkwms/giphy.gif" />
