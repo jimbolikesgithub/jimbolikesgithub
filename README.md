@@ -20,6 +20,7 @@
 <code><img height="27" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSTTzPAw-55ssm1Im594xYZ9eRQu2JylrkYLg&usqp=CAU" alt="mongodb"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="terminal"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="bootstrap"></code>
 </div>
 
 <div align="center">
@@ -33,6 +34,13 @@
 ○ 🎓 GIT Alumni in Full-Stack Web Development</br>
 ○ 💫 Three.js && Blender enjoyer </br>
 ○ ✨ Making the most aesthetically pleasing sites is one of my goals </br>
+
+<h2>Some tech concepts I'm versed in:</h2>
+• MERN
+• MVC
+• ORM
+• OOP
+• PWA
 
 <a href="https://github.com/jimbolikesgithub/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=jimbolikesgithub&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> <a href="https://github.com/jimbolikesgithub/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jimbolikesgithub&layout=compact&theme=buefy&hide_border=true" /></a>
 
