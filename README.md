@@ -44,5 +44,5 @@ MERN | MVC | ORM | OOP | PWA
  
   <a align="left" href="https://github.com/AnthonyC233/Medcare-Remodel" title="Algorithms"><img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=AnthonyC233&repo=Medcare-Remodel&theme=buefy"></a>
 </br>
-https://github.com/AnthonyC233/Medcare-Remodel
+
 <img height="400px" width="100%" alt="GIF" src="https://media.giphy.com/media/YrJp9LFIDkwms/giphy.gif" />
