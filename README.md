@@ -32,7 +32,7 @@
 ○ 💻 Freelance, Full-Stack Web Developer </br>
 ○ 👨‍💻 3 years of coding exp (3 years already?!) </br>
 ○ 🎓 GIT Alumni in Full-Stack Web Development Cert</br>
-○ 📩 edwards.econn@gmail.com
+○ 📩 edwards.econn@gmail.com </br>
 ○ 💫 Three.js && Blender enjoyer </br>
 ○ ✨ Making the most aesthetically pleasing sites is one of my goals </br>
 
