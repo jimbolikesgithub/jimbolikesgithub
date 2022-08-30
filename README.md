@@ -36,8 +36,8 @@
 ○ 💫 Three.js && Blender enjoyer </br>
 ○ ✨ Making the most aesthetically pleasing sites is one of my goals </br>
 
-<h2>Some tech concepts I'm versed in:</h2>
-MERN | MVC | ORM | OOP | PWA 
+<h2>Some tech frameworks I'm versed in:</h2>
+MERN | MVC | ORM | OOP | PWA | REST APIs
 
 <h2>Freelance sites I've worked on:</h2>
 
