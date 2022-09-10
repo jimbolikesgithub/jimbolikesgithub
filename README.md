@@ -33,7 +33,7 @@
 ○ 👨‍💻 3 years of coding exp (3 years already?!) </br>
 ○ 🎓 GT Alumni in Full-Stack Web Development Cert</br>
 ○ 📩 edwards.econn@gmail.com </br>
-○ 💫 Three.js && Blender enjoyer </br>
+○ 💫 React + NextJS enjoyer </br>
 ○ ✨ Making the most aesthetically pleasing sites is one of my goals </br>
 
 <h2>Some tech frameworks I'm versed in:</h2>
