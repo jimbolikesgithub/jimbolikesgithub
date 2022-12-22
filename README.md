@@ -4,7 +4,7 @@
 </div>
 
 <div align="center">
-   <h3> James Edwards | 20 | Full-Stack Developer | Newnan, GA </h3>
+   <h3> James Edwards | 21 | Full-Stack Developer | Newnan, GA </h3>
 </div>
 
 <div align="center">
